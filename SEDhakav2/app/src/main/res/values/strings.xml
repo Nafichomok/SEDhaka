@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SEDhaka</string>
+    <string name="title_home">Top</string>
+    <string name="title_list">List</string>
+    <string name="title_favourite">Favourites</string>
+    <string name="title_exit">Exit</string>
+    <string name="title_bottom">Bottom</string>
+</resources>
