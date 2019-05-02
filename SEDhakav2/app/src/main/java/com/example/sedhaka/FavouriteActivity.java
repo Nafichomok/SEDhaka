@@ -1,4 +1,4 @@
-package com.example.stockpublic;
+package com.example.sedhaka;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;

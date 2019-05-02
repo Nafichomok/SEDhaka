@@ -1,4 +1,4 @@
-package com.example.stockpublic;
+package com.example.sedhaka;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Filter;
 import android.widget.Filterable;
-import android.widget.ImageButton;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 

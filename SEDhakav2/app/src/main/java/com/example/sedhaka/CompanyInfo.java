@@ -1,4 +1,4 @@
-package com.example.stockpublic;
+package com.example.sedhaka;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

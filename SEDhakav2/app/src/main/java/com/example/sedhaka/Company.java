@@ -1,4 +1,4 @@
-package com.example.stockpublic;
+package com.example.sedhaka;
 
 import android.os.Parcel;
 import android.os.Parcelable;

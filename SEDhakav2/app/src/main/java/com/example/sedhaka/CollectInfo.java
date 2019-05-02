@@ -1,4 +1,4 @@
-package com.example.stockpublic;
+package com.example.sedhaka;
 
 import android.content.Context;
 import android.os.AsyncTask;
